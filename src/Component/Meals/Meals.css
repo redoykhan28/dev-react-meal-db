@@ -1,0 +1,27 @@
+.main-container {
+
+    display: grid;
+    grid-template-columns: 4fr 1fr;
+    grid-gap: 20px;
+
+}
+
+.food {
+
+    margin-left: 30px;
+}
+
+.food-container {
+    margin-top: 70px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 10px;
+}
+
+.cart-contaier {
+
+    margin-right: 30px;
+    text-align: left;
+    padding: 20px;
+    background-color: rgb(232, 232, 232);
+}

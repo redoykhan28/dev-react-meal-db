@@ -1,0 +1,27 @@
+.nav {
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: goldenrod;
+
+
+}
+
+.head {
+
+    color: white;
+    margin-left: 20px;
+}
+
+.link {
+
+    margin-right: 20px;
+}
+
+.link a {
+
+    text-decoration: none;
+    color: white;
+    margin: 10px;
+}
